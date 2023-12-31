@@ -4,7 +4,7 @@ title: Drum Synthesis and Rhythmic Transformation with Adversarial Autoencoders
 description: Audio examples accompanying paper for ACM International Conference on Multimedia (ACM MM) 2020.
 img: 
 importance: 1
-category: phd
+category: work
 ---
 
 

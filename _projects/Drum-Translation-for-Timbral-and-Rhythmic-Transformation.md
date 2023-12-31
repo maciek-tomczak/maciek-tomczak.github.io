@@ -4,7 +4,7 @@ title: Drum Translation for Timbral and Rhythmic Transformation
 description: Results supplementing the paper for the International Conference on Digital Audio Effects (DAFx) 2019.
 img: 
 importance: 1
-category: phd
+category: work
 ---
 
 **[Tomczak, M.](https://maciek-tomczak.github.io/)., [J., Drysdale](https://scholar.google.ch/citations?user=t2Zm6aoAAAAJ&hl=en&oi=ao), [J., Hockman](https://www.schoolofdigitalarts.mmu.ac.uk/staff/jason-hockman/), [Drum Translation for Timbral and Rhythmic Transformation, Proceedings of the 22nd International Conference on Digital Audio Effects (DAFx), Birmingham, United Kingdom, September 2–6, 2019.](http://dafx2019.bcu.ac.uk/papers/DAFx2019_paper_25.pdf)** |
