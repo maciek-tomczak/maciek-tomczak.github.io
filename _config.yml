@@ -120,7 +120,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name:  # blog_name will be displayed in your blog page
-blog_description: I invite you check out what I've been up to
+blog_description: I invite you to check out what I've been up to
 permalink: /blog/:year/:title/
 
 # Pagination
