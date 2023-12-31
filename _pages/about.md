@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Musician, Scientist, Machine Learning and Sound Engineer
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I'm Maciek (formal spelling Maciej), a data scientist at Fintern in London.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<b>Research</b>: My research interests lie in the areas of <b>automated music transformations</b> and <b>generative models</b> for audio, with an emphasis on introducing control over rhythmic manipulation of percussion recordings. For more information about my background and research, please take a look at my [CV](https://drive.google.com/open?id=10lnx5UwlpoNpXmMbkFBb5yGPgHof5FKq) and [Google Scholar page](https://scholar.google.com/citations?user=2upPg60AAAAJ).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<b>Previously</b>: I graduated with a <b>PhD in Generative Modelling for Neural Audio Synthesis</b> from the Birmingham City University (BCU) where I was advised by Dr [Jason Hockman](https://www.schoolofdigitalarts.mmu.ac.uk/staff/jason-hockman/). Prior to that I received my BSc degree in Sound Engineering and Production from BCU. Past antics [this way](/maciek.github.io).
+
+<b>Music and Dubbing</b>: I also enjoy participating in various sound and music projects. Since 2009, I've been part of NanoKarrin, the largest Polish <b>fandubbing group</b> that brings together amateurs, professionals and everyone in between. My roles include sound engineering (<b>mixing & mastering</b> of music projects) and recruitment. For more details, please see [this page](/dubbing).

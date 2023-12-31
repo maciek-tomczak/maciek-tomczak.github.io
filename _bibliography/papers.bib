@@ -1,84 +1,159 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
+@article{tomczak2023virtuoso,
+  abbr = {ISMIR},
+  pdf = {https://ismir2023program.ismir.net/lbd_312.html},
+  abstract={In this paper, we present Virtuoso Strings, a dataset for timing analysis and automatic music transcription (AMT) tasks requiring note onset annotations. This dataset takes advantage of real-world recordings in multitrack format and is curated as a component of the Augmented Reality Music Ensemble (ARME) project, which investigates musician synchronisation and multimodal music analysis. The dataset comprises repeated recordings of quartet, trio, duet and solo ensemble performances. Each performance showcases varying temporal expressions and leadership role assignments, providing new possibilities for developing and evaluating AMT models across diverse musical styles. To reduce the cost of the labour-intensive manual annotation, a semi-automatic method was utilised for both annotation and quality control. The dataset features 746 tracks, totalling 68,728 onsets. Each track includes onset annotations for a single string instrument. This design facilitates the generation of audio files with varied instrument combinations for use in the AMT evaluation process.},
+	author = {Tomczak, Maciek and Li, Susan Min and Di Luca, Massimiliano},
+	title = {A Dataset of String Ensemble Recordings and Onset Annotations for Timing Analysis},
+	journal = {Extended Abstracts for the Late-Breaking Demo Session of the International Society of Music Information Retrieval Conference (ISMIR), Milan, Italy},
+	year = {2023},
+  code = {https://github.com/arme-project/virtuoso-strings},
+  bibtex_show={true}}
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
-}
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
-}
+@article{tomczak2023onset,
+  abbr = {AudioMostly},
+  html = {https://dl.acm.org/doi/abs/10.1145/3616195.3616206},
+  pdf = {https://dl.acm.org/doi/pdf/10.1145/3616195.3616206},
+  abstract={Recent work in note onset detection has centered on deep learning models such as recurrent neural networks (RNN), convolutional neural networks (CNN) and more recently temporal convolutional networks (TCN), which achieve high evaluation accuracies for onsets characterized by clear, well-defined transients, as found in percussive instruments. However, onsets with less transient presence, as found in string instrument recordings, still pose a relatively difficult challenge for state-of-the-art algorithms. This challenge is further exacerbated by a paucity of string instrument data containing expert annotations. In this paper, we propose two new models for onset detection using bidirectional temporal and recurrent convolutional networks, which generalise to polyphonic signals and string instruments. We perform evaluations of the proposed methods alongside state-of-the-art algorithms for onset detection on a benchmark dataset from the MIR community, as well as on a test set from a newly proposed dataset of string instrument recordings with note onset annotations, comprising approximately 40 minutes and over 8,000 annotated onsets with varied expressive playing styles. The results demonstrate the effectiveness of both presented models, as they outperform the state-of-the-art algorithms on string recordings while maintaining comparative performance on other types of music.},
+	author = {Tomczak, Maciek and Hockman, Jason},
+	title = {Onset Detection for String Instruments Using Bidirectional Temporal and Convolutional Recurrent Networks},
+	journal = {Proceedings of the Audio Mostly Conference, Edinburgh, United Kingdom, ACM, New York, NY, USA},
+	pages = {136--142},
+	year = {2023},
+  bibtex_show={true}}
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  selected={true}
-}
+@article{enderby2023adaptive,
+  abbr = {RPPW},
+  html = {https://e-space.mmu.ac.uk/633129/},
+  code = {https://github.com/arme-project/AdaptiveMetronome},
+  journal = {Rhythm Production and Perception Workshop (RPPW), Birmingham, UK},
+  title={Adaptive metronome: a MIDI plug-in for modelling cooperative timing in music ensembles},
+  author={Enderby, Sean and Stables, Ryan and Hockman, Jason and Tomczak, Maciek and Wing, Alan and Elliot, Mark and Di Luca, Massimiliano},
+  year={2023},
+  bibtex_show={true}}
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
+@article{tomczak2023effect,
+  abbr = {RPPW},
+  html = {https://e-space.mmu.ac.uk/633128/},
+  code = {https://arme-project.co.uk/demos/microtiming},
+  journal = {Rhythm Production and Perception Workshop (RPPW), Birmingham, UK},
+  title={Effect of leadership change on microtiming patterns in string quartet},
+  author={Tomczak, Maciek and Li, Min Susan and Witek, Maria and Hockman, Jason},
+  year={2023},
+  bibtex_show={true}}
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
+@article{tomczak2020drum,
+  abbr = {ACM MM},
+  html = {https://dl.acm.org/doi/abs/10.1145/3394171.3413519},
+  pdf = {https://dl.acm.org/doi/pdf/10.1145/3394171.3413519},
+  abstract={Creative rhythmic transformations of musical audio refer to automated methods for manipulation of temporally-relevant sounds in time. This paper presents a method for joint synthesis and rhythm transformation of drum sounds through the use of adversarial autoencoders (AAE). Users may navigate both the timbre and rhythm of drum patterns in audio recordings through expressive control over a low-dimensional latent space. The model is based on an AAE with Gaussian mixture latent distributions that introduce rhythmic pattern conditioning to represent a wide variety of drum performances. The AAE is trained on a dataset of bar-length segments of percussion recordings, along with their clustered rhythmic pattern labels. The decoder is conditioned during adversarial training for mixing of data-driven rhythmic and timbral properties. The system is trained with over 500000 bars from 5418 tracks in popular datasets covering various musical genres. In an evaluation using real percussion recordings, the reconstruction accuracy and latent space interpolation between drum performances are investigated for audio generation conditioned by target rhythmic patterns.},
+	author = {Tomczak, Maciek and Goto, Masataka and Hockman, Jason},
+	title = {Drum Synthesis and Rhythmic Transformation with Adversarial Autoencoders},
+	journal = {Proceedings of the ACM International Conference on Multimedia (ACM-MM), Seattle, USA},
+	pages = {2427--2435},
+	year = {2020},
+  bibtex_show={true}}
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
+@article{tomczak2019drum,
+  abbr = {DAFx},
+  abstract = {Many recent approaches to creative transformations of musical audio have been motivated by the success of raw audio generation models such as WaveNet, in which audio samples are modeled by generative neural networks. This paper describes a generative audio synthesis model for multi-drum translation based on a WaveNet denosing autoencoder architecture. The timbre of an arbitrary source audio input is transformed to sound as if it were played by various percussive instruments while preserving its rhythmic structure. Two evaluations of the transformations are conducted based on the capacity of the model to preserve the rhythmic patterns of the input and the audio quality as it relates to timbre of the target drum domain. The first evaluation measures the rhythmic similarities between the source audio and the corresponding drum translations, and the second provides a numerical analysis of the quality of the synthesised audio. Additionally, a semi- and fully-automatic audio effect has been proposed, in which the user may assist the system by manually labelling source audio segments or use a state-of-the-art automatic drum transcription system prior to drum translation.},
+  pdf = {https://dafx.de/paper-archive/2019/DAFx2019_paper_25.pdf},
+  title={Drum Translation for Timbral and Rhythmic Transformation},
+  author={Tomczak, Maciek and Drysdale, Jake and Hockman, Jason},
+  journal = {Proceedings of the International Conference on Digital Audio Effects (DAFx), Birmingham, UK},
+  pages = {340--346},
+  year={2019},
+  bibtex_show={true}}
 
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
-}
+@article{tomczak2018audio,
+  abbr = {DAFx},
+  code = {https://github.com/maciek-tomczak/audio-style-transfer-with-rhythmic-constraints},
+  pdf = {https://www.dafx.de/paper-archive/2018/papers/DAFx2018_paper_48.pdf},
+	Author = {Tomczak, Maciek and Southall, Carl and Hockman, Jason},
+	journal = {Proceedings of the International Conference on Digital Audio Effects (DAFx), Aveiro, Portugal},
+	Title = {Audio Style Transfer with Rhythmic Constraints},
+	pages = {45--50},
+	Year = {2018},
+  bibtex_show={true}}
+
+@article{tomczak2017rhythm,
+  abbr = {RPPW},
+	Author = {Tomczak, Maciek and Southall, Carl and Hockman, Jason},
+	journal = {Rhythm Production and Perception Workshop (RPPW), Birmingham, UK},
+	Title = {Rhythm Modelling using Convolutional Neural Networks},
+	Year = {2017},
+  bibtex_show={true}}
+
+@phdthesis{tomczak2023automated,
+  abbr = {PhD Thesis},
+	Author = {Tomczak, Maciek},
+	School = {Sound and Music Analysis (SOMA) Group, Digital Media Technology (DMT) Lab, Birmingham City University, UK},
+	Title = {Automated Rhythmic Transformation of Drum Recordings},
+	Year = {2023},
+  bibtex_show={true}}
+
+@article{cheshire2022deep,
+  abbr = {JAES},
+  title = {Deep Audio Effects for Snare Drum Recording Transformations},
+  author = {Cheshire, Matthew and Drysdale, Jake and Enderby, Sean and Tomczak, Maciek and Hockman, Jason},
+  journal = {Journal of the Audio Engineering Society (JAES), Special Issue: New Trends in Audio Effects},
+  year = {2022},
+  bibtex_show={true}}
+
+@article{drysdale2021style,
+  abbr = {ISMIR},
+  pdf = {https://archives.ismir.net/ismir2021/latebreaking/000041.pdf},
+  title={Style-based Drum Synthesis with GAN Inversion},
+  author={Drysdale, Jake and Tomczak, Maciek and Hockman, Jason},
+  journal={Extended Abstracts for the Late-Breaking Demo Session of the 22nd Int. Society for Music Information Retrieval Conference},
+  year={2021},
+  bibtex_show={true}}
+
+ @article{drysdale2020adversarial,
+  abbr = {DAFx},
+  title={Adversarial Synthesis of Drum Sounds},
+  author={Drysdale, Jake and Tomczak, Maciek and Hockman, Jason},
+  journal={Proceedings of the International Conference on Digital Audio Effects (DAFx), Vienna, Austria},
+  pages={167--172},
+  year={2020},
+  bibtex_show={true}}
+
+  @inproceedings{ali2018player,
+  abbr = {FMA},
+  pdf = {http://fma2018.mus.auth.gr/files/papers/FMA2018_paper_1.pdf},
+  title={Player Recognition for Traditional Irish Flute Recordings},
+  author={Ali-MacLachlan, Islah and Southall, Carl and Tomczak, Maciek and Hockman, Jason},
+  booktitle={Proceedings of the 8th International Workshop on Folk Music Analysis, Thessaloniki, Greece},
+  pages={3--8},
+  year={2018},
+  bibtex_show={true}}
+
+@article{ali2017improved,
+  abbr = {FMA},
+  pdf = {https://core.ac.uk/reader/141207270},
+  title={Improved Onset Detection for Traditional Flute Recordings using Convolutional Neural Networks},
+  author={Ali-MacLachlan, Islah and Tomczak, Maciek and Southall, Carl and Hockman, Jason},
+  booktitle = {Proceedings of the 7th International Workshop on Folk Music Analysis, Malaga, Spain},
+  year={2017},
+  bibtex_show={true}}
+
+@article{ali2016note,
+  abbr = {FMA},
+  pdf = {https://core.ac.uk/download/pdf/141206238.pdf},
+  title={Note, Cut and Strike Detection for Traditional Irish Flute Recordings},
+  author={Ali-MacLachlan, Islah and Tomczak, Maciek and Southall, Carl and Hockman, Jason},
+  booktitle = {Proceedings of the 6th International Workshop on Folk Music Analysis, Dublin, Ireland},
+  year={2016},
+  pages = {30--35},
+  bibtex_show={true}}
+
+@article{tomczak2015salience,
+  title={The Salience of MFCC Semantic Classification on Electric Guitar Recordings},
+  abstract = {This project describes an approach of semantic recognition by using the Mel Frequency Cepstral Coefficients (MFCCs) extracted from equalised signal of electric guitar recordings. Feature scaling is employed, prior to training and testing semantically processed samples via k Nearest Neighbour (kNN) and Support Vector Machine (SVM). Based on the created dataset of total 400 semantic trials collected from 20 experiment participants, it was possible to successfully train the kNN and SVM classifiers to distinguish between warm and bright extracted features. Results presented in this study show that a k = 5 NN model classifies the warm and bright descriptors most accurately, achieving 0.04% error on the test set.},
+  author={Tomczak, Maciek and Stables, Ryan},
+  journal={Undergraduate thesis. Birmingham City University},
+  year={2015},
+  bibtex_show={true}}
