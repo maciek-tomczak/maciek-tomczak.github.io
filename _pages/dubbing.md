@@ -74,11 +74,9 @@ Selected mastering work and assistance on projects:
 
 ### Presentations at fan conventions
 
-<ul class='fa-ul'>
-    <li><i>2018</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://eventory.cc/event/nejiro-9/schedule/46125">'Mamo nie słyszę, bo miksuję!'</a> presented at <a href="https://eventory.cc/event/nejiro-9">Nejiro 9</a>.</li>
-    <li><i>2017</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://eventory.cc/event/pyrkon-2017/schedule/29585">Muzyka i dźwięk w filmach zza kulis</a> presented at <a href="https://pyrkon.pl/en/about-pyrkon/">Pyrkon</a>.</li>
-</ul>
-<h3 className="major">Courses and teaching material</h3>
-<ul class='fa-ul'>
-    <li><i>2016</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://rekrutacja.nanokarrin.pl/docs/realizacja2">Kurs Realizatorów Fandubbingowych (KRF)</a>, or access the slides as <a href="https://www.slideshare.net/MaciekTomczak/kurs-realizatorw-fandubbingowych-2016">pdf</a>.</li>
-</ul>
+- 2018 ['Mamo nie słyszę, bo miksuję!'](https://eventory.cc/event/nejiro-9/schedule/46125) presented at [Nejiro 9](https://eventory.cc/event/nejiro-9)
+- 2016 [Muzyka i dźwięk w filmach zza kulis](https://eventory.cc/event/pyrkon-2017/schedule/29585) presented at [Pyrkon](https://pyrkon.pl/en/about-pyrkon/)
+
+### Courses and teaching material
+
+- 2016 [Kurs Realizatorów Fandubbingowych](https://rekrutacja.nanokarrin.pl/docs/realizacja2), or access the slides as [pdf](https://www.slideshare.net/MaciekTomczak/kurs-realizatorw-fandubbingowych-2016)

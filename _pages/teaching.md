@@ -20,3 +20,5 @@ nav: false
     <li><i>2016</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Live Sound Engineering [DIG4158]</li>
     <li><i>2015-16</i> &nbsp;&nbsp;Music and Sound for Visual Media [DIG6042]</li>
 </ul>
+
+Other educational work includes a course for fandubbing sound engineers (in Polish), which can be accessed [here](https://rekrutacja.nanokarrin.pl/docs/realizacja2).
