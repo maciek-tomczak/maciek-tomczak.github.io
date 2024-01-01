@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Fintern in London as a data scientist
+Joined Fintern in London as data scientist
