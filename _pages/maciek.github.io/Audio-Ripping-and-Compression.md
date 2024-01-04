@@ -30,7 +30,7 @@ So, once you’ve chosen a CD that you are satisfied with, you will need a piece
 <figure>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="_pages/maciek.github.io/audio-ripping/1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/audio/audio-ripping/1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 </figure>
@@ -60,7 +60,7 @@ OK, lets get down to business.
 <figure>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="_pages/maciek.github.io/audio-ripping/2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/audio/audio-ripping/2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 </figure>
@@ -72,7 +72,7 @@ Above you can see all loaded tracks in .aiff file format. All that’s left to d
 <figure>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="_pages/maciek.github.io/audio-ripping/3.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/audio/audio-ripping/3.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 </figure>

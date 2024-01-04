@@ -1,11 +1,11 @@
 ---
 layout: page
-date: "2015-01-25"
+date: 2015-01-25
 permalink: /maciek.github.io/Global-Game-Jam
 title: Protect Baby
 description: A game I helped develop during the Global Game Jam 2015.
 tags: [game-developement]
-nav: false
+categories: 
 ---
 
 Hey, this weekend I participated in the [Global Game Jam](https://globalgamejam.org/) 2015. Loads of fun! Here's a game we've made in 48hours.

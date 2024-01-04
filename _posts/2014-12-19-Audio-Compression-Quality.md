@@ -28,7 +28,7 @@ I ripped one song from the same CD as an uncompressed wave file, as a 320 bit ra
 <figure>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="_pages/maciek.github.io/audio-compression/11.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/audio/audio-compression/11.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 </figure>
@@ -40,7 +40,7 @@ I imported the raw wave file and the 320kbps Mp3 into Audacity, one after the ot
 <figure>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="_pages/maciek.github.io/audio-compression/21.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/audio/audio-compression/21.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 </figure>
@@ -52,7 +52,7 @@ Since, the Mp3 compression process had padded the start and finish of the file, 
 <figure>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="_pages/maciek.github.io/audio-compression/31.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/audio/audio-compression/31.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 </figure>
@@ -64,7 +64,7 @@ It’s quite slow and notorious to align both tracks as audacity does not suppor
 <figure>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="_pages/maciek.github.io/audio-compression/41.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/audio/audio-compression/41.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 </figure>
@@ -76,7 +76,7 @@ Now the interesting part kicks in. I selected the whole region of the 320kbps Mp
 <figure>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="_pages/maciek.github.io/audio-compression/51.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/audio/audio-compression/51.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 </figure>
@@ -88,7 +88,7 @@ Then I selected the uncompressed wave file with the inverted Mp3, and clicked mi
 <figure>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="_pages/maciek.github.io/audio-compression/61.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/audio/audio-compression/61.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 </figure>
@@ -102,7 +102,7 @@ Cool, right? Does it make a difference? :)
 <figure>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="_pages/maciek.github.io/audio-compression/71.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/audio/audio-compression/71.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 </figure>
@@ -114,7 +114,7 @@ I listened, and listened, but there was no difference to be heard. Don’t belie
 
 <center>
 <figure>
-		{% include audio.html path="_pages/maciek.github.io/audio-compression/stage1_T2.mp3" controls=true %}
+		{% include audio.html path="assets/audio/audio-compression/stage1_T2.mp3" controls=true %}
 </figure>
 </center>
 
@@ -124,7 +124,7 @@ Did you hear any difference? No? Yes? Maybe? Try it again and listen for an incr
 <figure>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="_pages/maciek.github.io/audio-compression/81.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/audio/audio-compression/81.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 </figure>
@@ -134,7 +134,7 @@ I repeated the same test using a VBR Mp3 instead of the normal 320kbps. As you 
 
 <center>
 <figure>
-		{% include audio.html path="_pages/maciek.github.io/audio-compression/stage2_T3.mp3" controls=true %}
+		{% include audio.html path="assets/audio/audio-compression/stage2_T3.mp3" controls=true %}
 </figure>
 </center>
 
@@ -144,7 +144,7 @@ In order to do a more obvious comparison I did the same test using a 56 bit rate
 
 <center>
 <figure>
-		{% include audio.html path="_pages/maciek.github.io/audio-compression/stage3_T4.mp3" controls=true %}
+		{% include audio.html path="assets/audio/audio-compression/stage3_T4.mp3" controls=true %}
 </figure>
 </center>
 

@@ -20,7 +20,7 @@ The Magik Smiftheniser Plug-in developed using <a href="https://www.willpirkle.c
 <figure>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="_pages/maciek.github.io/smiftheniser-plugin/smifplugin2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/audio/smiftheniser-plugin/smifplugin2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 </figure>

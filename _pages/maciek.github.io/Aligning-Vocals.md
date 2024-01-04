@@ -30,11 +30,11 @@ I will present 3 different examples that will consist of: 1) an .mp3 containi
 <center>
 <figure>
         <div class="caption"> Example 1 No Effects </div>
-		{% include audio.html path="_pages/maciek.github.io/aligning-vocals/Example_1_NoEffects.mp3" controls=true %}
+		{% include audio.html path="assets/audio/aligning-vocals/Example_1_NoEffects.mp3" controls=true %}
         <div class="caption"> Example 1 VocAlign </div>
-		{% include audio.html path="_pages/maciek.github.io/aligning-vocals/Example_1_VocAlign.mp3" controls=true %}
+		{% include audio.html path="assets/audio/aligning-vocals/Example_1_VocAlign.mp3" controls=true %}
         <div class="caption"> Example 1 Mix </div>
-        {% include audio.html path="_pages/maciek.github.io/aligning-vocals/Example_1_Mix.mp3" controls=true %}
+        {% include audio.html path="assets/audio/aligning-vocals/Example_1_Mix.mp3" controls=true %}
 </figure>
 </center>
 
@@ -44,11 +44,11 @@ So in this example we will see how VocAlign deals with a bit more recognisable�
 <center>
 <figure>
         <div class="caption"> Example 2 No Effects </div>
-		{% include audio.html path="_pages/maciek.github.io/aligning-vocals/Example_2_NoEffects.mp3" controls=true %}
+		{% include audio.html path="assets/audio/aligning-vocals/Example_2_NoEffects.mp3" controls=true %}
         <div class="caption"> Example 2 VocAlign </div>
-		{% include audio.html path="_pages/maciek.github.io/aligning-vocals/Example_2_VocAlign.mp3" controls=true %}
+		{% include audio.html path="assets/audio/aligning-vocals/Example_2_VocAlign.mp3" controls=true %}
         <div class="caption"> Example 2 Mix </div>
-        {% include audio.html path="_pages/maciek.github.io/aligning-vocals/Example_2_Mix.mp3" controls=true %}
+        {% include audio.html path="assets/audio/aligning-vocals/Example_2_Mix.mp3" controls=true %}
 </figure>
 </center>
 
@@ -65,9 +65,9 @@ But of course nothing is perfect (That's a good thing. SMILEY)
 <center>
 <figure>
         <div class="caption"> Example 3 No Effects </div>
-		{% include audio.html path="_pages/maciek.github.io/aligning-vocals/Example_3_NoEffects.mp3" controls=true %}
+		{% include audio.html path="assets/audio/aligning-vocals/Example_3_NoEffects.mp3" controls=true %}
         <div class="caption"> Example 3 VocAlign </div>
-		{% include audio.html path="_pages/maciek.github.io/aligning-vocals/Example_3_VocAlign.mp3" controls=true %}
+		{% include audio.html path="assets/audio/aligning-vocals/Example_3_VocAlign.mp3" controls=true %}
 </figure>
 </center>
 
@@ -81,7 +81,7 @@ Do we want it? Maybe yes, maybe not. In the end, I worked my way to have it soun
 <center>
 <figure>
         <div class="caption"> Example 3 Mix </div>
-		{% include audio.html path="_pages/maciek.github.io/aligning-vocals/Example_3_Mix.mp3" controls=true %}
+		{% include audio.html path="assets/audio/aligning-vocals/Example_3_Mix.mp3" controls=true %}
 </figure>
 </center>
 

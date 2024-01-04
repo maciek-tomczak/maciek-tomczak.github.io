@@ -17,7 +17,7 @@ nav: false
 <figure>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="_pages/maciek.github.io/singing-voice/arch_horizon.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/audio/singing-voice/arch_horizon.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 </figure>
@@ -35,40 +35,40 @@ Each presented audio example follows song and singer IDs in Tables I and II in t
 
 <figure>
 <figcaption><b>Ground truth (female)</b></figcaption>
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_female_JP/A_SOURCE_female_JP.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_female_JP/A_SOURCE_female_JP.mp3" controls=true %}
 </figure>
 
 
 <figure>
 <figcaption><b>Reconstruction (female)</b></figcaption>
 <figcaption>Generator trained using space <b>Zc = 4</b></figcaption>
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_female_JP/A_Z4_RECON_female_JP.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_female_JP/A_Z4_RECON_female_JP.mp3" controls=true %}
 </figure>
 
 <figure>
 <figcaption><b>Voice Conversion (female &rarr; female)</b></figcaption>
 <figcaption>4 examples generated with a trained model using space <b>Zc = 4</b></figcaption>
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_female_JP/A4_Z4_female_female_JP.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_female_JP/A3_Z4_female_female_JP.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_female_JP/A2_Z4_female_female_JP.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_female_JP/A1_Z4_female_female_JP.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_female_JP/A4_Z4_female_female_JP.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_female_JP/A3_Z4_female_female_JP.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_female_JP/A2_Z4_female_female_JP.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_female_JP/A1_Z4_female_female_JP.mp3" controls=true %}
 	<figcaption>Above examples show varied timbres and successful conversions to different singers</figcaption>
 </figure>
 
 <figure>
 <figcaption><b>Voice Conversion (female &rarr; male)</b></figcaption>
 <figcaption>4 examples generated with a trained model using space <b>Zc = 4</b></figcaption>
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_female_JP/A4_Z4_female_male_JP.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_female_JP/A3_Z4_female_male_JP.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_female_JP/A2_Z4_female_male_JP.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_female_JP/A1_Z4_female_male_JP.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_female_JP/A4_Z4_female_male_JP.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_female_JP/A3_Z4_female_male_JP.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_female_JP/A2_Z4_female_male_JP.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_female_JP/A1_Z4_female_male_JP.mp3" controls=true %}
 	<figcaption>Above examples show varied timbres and successful conversions to different singers</figcaption>
 </figure>
 
 <figure>
 <figcaption><b>Voice Conversion (female &rarr; male)</b></figcaption>
 <figcaption>Generator trained using space <b>Zc = 100</b></figcaption>
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_female_JP/A1_Z100_female_male_JP.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_female_JP/A1_Z100_female_male_JP.mp3" controls=true %}
 <figcaption>Example sounds almost the same as the ground truth with <b>no voice conversion</b></figcaption>
 </figure>
 
@@ -78,39 +78,39 @@ Each presented audio example follows song and singer IDs in Tables I and II in t
 
 <figure>
 <figcaption><b>Ground truth (male)</b></figcaption>
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_male_JP/A_SOURCE_male_JP.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_male_JP/A_SOURCE_male_JP.mp3" controls=true %}
 </figure>
 
 <figure>
 <figcaption><b>Reconstruction (male)</b></figcaption>
 <figcaption>Generator trained using space <b>Zc = 4</b></figcaption>
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_male_JP/A_Z4_RECON_male_JP.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_male_JP/A_Z4_RECON_male_JP.mp3" controls=true %}
 </figure>
 
 <figure>
 <figcaption><b>Voice Conversion (male &rarr; female)</b></figcaption>
 <figcaption>4 examples generated with a trained model using space <b>Zc = 4</b></figcaption>
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_male_JP/A4_Z4_male_female_JP.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_male_JP/A3_Z4_male_female_JP.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_male_JP/A2_Z4_male_female_JP.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_male_JP/A1_Z4_male_female_JP.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_male_JP/A4_Z4_male_female_JP.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_male_JP/A3_Z4_male_female_JP.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_male_JP/A2_Z4_male_female_JP.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_male_JP/A1_Z4_male_female_JP.mp3" controls=true %}
 	<figcaption>Above examples show varied timbres and successful conversions to different singers</figcaption>
 </figure>
 
 <figure>
 <figcaption><b>Voice Conversion (male &rarr; male)</b></figcaption>
 <figcaption>4 examples generated with a trained model using space <b>Zc = 4</b></figcaption>
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_male_JP/A1_Z4_male_male_JP.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_male_JP/A3_Z4_male_male_JP.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_male_JP/A2_Z4_male_male_JP.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_male_JP/A4_Z4_male_male_JP.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_male_JP/A1_Z4_male_male_JP.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_male_JP/A3_Z4_male_male_JP.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_male_JP/A2_Z4_male_male_JP.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_male_JP/A4_Z4_male_male_JP.mp3" controls=true %}
 	<figcaption>Above examples show varied timbres and successful conversions to different singers</figcaption>
 </figure>
 
 <figure>
 <figcaption><b>Voice Conversion (male &rarr; female)</b></figcaption>
 <figcaption>Generator trained using space <b>Zc = 100</b></figcaption>
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_male_JP/A4_Z100_male_female_JP.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_male_JP/A4_Z100_male_female_JP.mp3" controls=true %}
 <figcaption>Example sounds almost the same as the ground truth with <b>no voice conversion</b></figcaption>
 </figure>
 
@@ -120,39 +120,39 @@ Each presented audio example follows song and singer IDs in the original NUS-48E
 
 <figure>
 <figcaption><b>Ground truth (female)</b></figcaption>
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_female_EN/A_SOURCE_female_EN.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_female_EN/A_SOURCE_female_EN.mp3" controls=true %}
 </figure>
 
 <figure>
 <figcaption><b>Reconstruction (female)</b></figcaption>
 <figcaption>Generator trained using space <b>Zc = 4</b></figcaption>
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_female_EN/A_Z4_RECON_female_EN.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_female_EN/A_Z4_RECON_female_EN.mp3" controls=true %}
 </figure>
 
 <figure>
 <figcaption><b>Voice Conversion (female &rarr; female)</b></figcaption>
 <figcaption>4 examples generated with a trained model using space <b>Zc = 4</b></figcaption>
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_female_EN/A4_Z4_female_female_EN.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_female_EN/A3_Z4_female_female_EN.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_female_EN/A2_Z4_female_female_EN.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_female_EN/A1_Z4_female_female_EN.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_female_EN/A4_Z4_female_female_EN.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_female_EN/A3_Z4_female_female_EN.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_female_EN/A2_Z4_female_female_EN.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_female_EN/A1_Z4_female_female_EN.mp3" controls=true %}
 	<figcaption>Above examples show varied timbres and successful conversions to different singers</figcaption>
 </figure>
 
 <figure>
 <figcaption><b>Voice Conversion (female &rarr; male)</b></figcaption>
 <figcaption>4 examples generated with a trained model using space <b>Zc = 4</b></figcaption>
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_female_EN/A4_Z4_female_male_EN.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_female_EN/A3_Z4_female_male_EN.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_female_EN/A2_Z4_female_male_EN.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_female_EN/A1_Z4_female_male_EN.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_female_EN/A4_Z4_female_male_EN.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_female_EN/A3_Z4_female_male_EN.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_female_EN/A2_Z4_female_male_EN.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_female_EN/A1_Z4_female_male_EN.mp3" controls=true %}
 	<figcaption>Above examples show varied timbres and successful conversions to different singers</figcaption>
 </figure>
 
 <figure>
 <figcaption><b>Voice Conversion (female &rarr; male)</b></figcaption>
 <figcaption>Generator trained using space <b>Zc = 100</b></figcaption>
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_female_EN/A1_Z100_female_male_EN.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_female_EN/A1_Z100_female_male_EN.mp3" controls=true %}
 <figcaption>Example sounds almost the same as the ground truth with <b>no voice conversion</b></figcaption>
 </figure>
 
@@ -162,39 +162,39 @@ Each presented audio example follows song and singer IDs in the original NUS-48E
 
 <figure>
 <figcaption><b>Ground truth (male)</b></figcaption>
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_male_EN/A_SOURCE_male_EN.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_male_EN/A_SOURCE_male_EN.mp3" controls=true %}
 </figure>
 
 <figure>
 <figcaption><b>Reconstruction (male)</b></figcaption>
 <figcaption>Generator trained using space <b>Zc = 4</b></figcaption>
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_male_EN/A_Z4_RECON_male_EN.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_male_EN/A_Z4_RECON_male_EN.mp3" controls=true %}
 </figure>
 
 <figure>
 <figcaption><b>Voice Conversion (male &rarr; female)</b></figcaption>
 <figcaption>4 examples generated with a trained model using space <b>Zc = 4</b></figcaption>
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_male_EN/A4_Z4_male_female_EN.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_male_EN/A3_Z4_male_female_EN.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_male_EN/A2_Z4_male_female_EN.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_male_EN/A1_Z4_male_female_EN.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_male_EN/A4_Z4_male_female_EN.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_male_EN/A3_Z4_male_female_EN.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_male_EN/A2_Z4_male_female_EN.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_male_EN/A1_Z4_male_female_EN.mp3" controls=true %}
 	<figcaption>Above examples show varied timbres and successful conversions to different singers</figcaption>
 </figure>
 
 <figure>
 <figcaption><b>Voice Conversion (male &rarr; male)</b></figcaption>
 <figcaption>4 examples generated with a trained model using space <b>Zc = 4</b></figcaption>
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_male_EN/A1_Z4_male_male_EN.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_male_EN/A3_Z4_male_male_EN.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_male_EN/A2_Z4_male_male_EN.mp3" controls=true %}
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_male_EN/A4_Z4_male_male_EN.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_male_EN/A1_Z4_male_male_EN.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_male_EN/A3_Z4_male_male_EN.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_male_EN/A2_Z4_male_male_EN.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_male_EN/A4_Z4_male_male_EN.mp3" controls=true %}
 	<figcaption>Above examples show varied timbres and successful conversions to different singers</figcaption>
 </figure>
 
 <figure>
 <figcaption><b>Voice Conversion (male &rarr; female)</b></figcaption>
 <figcaption>Generator trained using space <b>Zc = 100</b></figcaption>
-    {% include audio.html path="_pages/maciek.github.io/singing-voice/A_male_EN/A4_Z100_male_female_EN.mp3" controls=true %}
+    {% include audio.html path="assets/audio/singing-voice/A_male_EN/A4_Z100_male_female_EN.mp3" controls=true %}
 <figcaption>Example sounds almost the same as the ground truth with <b>no voice conversion</b></figcaption>
 </figure>
 
