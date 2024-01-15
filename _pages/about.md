@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Musician, Scientist, Machine Learning and Sound Engineer
+subtitle: Scientist, Machine Learning and Sound Engineer, Musician
 
 profile:
   align: right
