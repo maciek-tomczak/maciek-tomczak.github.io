@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 - [2021 - Singing Voice Decomposition](./Singing-Voice-Decomposition)  
-- [2020 - Drum Synthesis and Rhythmic Transformation with Adversarial Autoencoders](./Drum-Synthesis-and-Rhythmic-Transformation)  
+- [2020 - Drum Synthesis and Rhythmic Transformation with Adversarial Autoencoders](./Drum-Synthesis-and-Rhythmic-Transformation/)  
 - [2019 - Drum Translation for Timbral and Rhythmic Transformation](./Drum-Translation-for-Timbral-and-Rhythmic-Transformation)  
 - [2018 - Audio Style Transfer with Rhythmic Constraints](./Audio-Style-Transfer-with-Rhythmic-Constraints)  
 - [2016-2021 - A few classes I was teaching during my PhD](/teaching)  

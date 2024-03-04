@@ -1,7 +1,7 @@
 ---
 layout: page
 date: "2020-07-01"
-permalink: /maciek.github.io/Drum-Synthesis-and-Rhythmic-Transformation
+permalink: /maciek.github.io/Drum-Synthesis-and-Rhythmic-Transformation/
 title: Drum Synthesis and Rhythmic Transformation with Adversarial Autoencoders
 tags: [redrumming, ML]
 description: Audio examples accompanying paper for ACM International Conference on Multimedia (ACM MM) 2020.
