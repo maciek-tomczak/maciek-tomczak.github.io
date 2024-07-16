@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented [Virtuoso Strings :violin: Dataset](https://github.com/arme-project/virtuoso-strings) at the [ISMIR Conference](https://ismir2023program.ismir.net/lbd_312.html) in Milan, Italy
+Presented [Virtuoso Strings :violin: Dataset](https://github.com/arme-project/virtuoso-strings) at the [ISMIR Conference](https://ismir2023program.ismir.net/lbd_312.html), Milan, Italy

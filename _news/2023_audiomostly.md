@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented [paper on onset detection](https://dl.acm.org/doi/10.1145/3616195.3616206) at the [AudioMostly Conference](https://audiomostly.com/) in Edinburgh, Scotland
+Presented [paper on onset detection](https://dl.acm.org/doi/10.1145/3616195.3616206) at the [AudioMostly Conference](https://audiomostly.com/), Edinburgh, Scotland

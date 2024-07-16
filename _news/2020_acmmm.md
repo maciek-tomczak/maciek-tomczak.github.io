@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented [paper on drum synthesis and rhythmic transformation](https://dl.acm.org/doi/10.1145/3394171.3413519) at the [ACM Multimedia Conference](https://2020.acmmm.org/) in Seattle, United States
+Presented [paper on drum synthesis and rhythmic transformation](https://dl.acm.org/doi/10.1145/3394171.3413519) at the [ACM Multimedia Conference](https://2020.acmmm.org/), Seattle, United States

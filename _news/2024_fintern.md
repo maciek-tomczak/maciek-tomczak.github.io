@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Fintern in London as data scientist
+Joined [Fintern](https://www.fintern.ai/) in London as senior data scientist
